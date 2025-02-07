@@ -1,0 +1,6 @@
+@MicroservicePOC.Services.CouponApi_HostAddress = http://localhost:5079
+
+GET {{MicroservicePOC.Services.CouponApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
